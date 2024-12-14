@@ -6,5 +6,5 @@ This repository contains two implementations of a TCR-epitope binding prediction
 ![alt text](https://github.com/sqVish99/Binding-Affinity-Prediction-Group4/blob/main/Picture.png?raw=true)
 
 OneDrive Link: 
-ATM-TCR: https://arizonastateu-my.sharepoint.com/:f:/g/personal/vmharish_sundevils_asu_edu/EjSdTYBFgNpHre5BHp7KACwBeMZGAi4ukCoDFXkI0hjnIQ?e=eRJLf2
-catELMo: https://arizonastateu-my.sharepoint.com/:f:/g/personal/vmharish_sundevils_asu_edu/En4wpmLp-uxKi07ueyfXxBIBflnTdDM0z6qSWFYOLcinOg?e=JOD8Ab
+ATM-TCR: https://arizonastateu-my.sharepoint.com/:f:/g/personal/vmharish_sundevils_asu_edu/EjSdTYBFgNpHre5BHp7KACwB2v1s62Q04URRjbM0gU9wCw?e=yK3dcu
+catELMo: https://arizonastateu-my.sharepoint.com/:f:/g/personal/vmharish_sundevils_asu_edu/ErxdLkQETCtPqp_9jaM3LeABPWda2nLKWWmg1JmF8OjECA?e=zoyX4G
