@@ -9,6 +9,12 @@ The models are designed for predicting TCR-epitope binding affinity. Pretrained 
 
 ---
 
+![alt text](https://github.com/sqVish99/Binding-Affinity-Prediction-Group4/blob/main/Picture.png?raw=true)
+
+OneDrive Link: 
+ATM-TCR: https://arizonastateu-my.sharepoint.com/:f:/g/personal/vmharish_sundevils_asu_edu/EjSdTYBFgNpHre5BHp7KACwB2v1s62Q04URRjbM0gU9wCw?e=yK3dcu
+catELMo: https://arizonastateu-my.sharepoint.com/:f:/g/personal/vmharish_sundevils_asu_edu/ErxdLkQETCtPqp_9jaM3LeABPWda2nLKWWmg1JmF8OjECA?e=zoyX4G
+
 ## **Repository Structure**
 
 ```plaintext
@@ -39,9 +45,3 @@ Binding-Affinity-Prediction-Group4/
 ├── Picture.png                    # Visualization image
 └── README.md                      # Project documentation
 
-
-![alt text](https://github.com/sqVish99/Binding-Affinity-Prediction-Group4/blob/main/Picture.png?raw=true)
-
-OneDrive Link: 
-ATM-TCR: https://arizonastateu-my.sharepoint.com/:f:/g/personal/vmharish_sundevils_asu_edu/EjSdTYBFgNpHre5BHp7KACwB2v1s62Q04URRjbM0gU9wCw?e=yK3dcu
-catELMo: https://arizonastateu-my.sharepoint.com/:f:/g/personal/vmharish_sundevils_asu_edu/ErxdLkQETCtPqp_9jaM3LeABPWda2nLKWWmg1JmF8OjECA?e=zoyX4G
