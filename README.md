@@ -48,14 +48,14 @@ Binding-Affinity-Prediction-Group4/
 │   │   ├── base_catelmo_tcr_weights.pth	# Model weights (TCR split)
 │   │   ├── base_epi_test_predictions.csv	# Test labels for Epitope split
 │   │   ├── base_tcr_test_predictions.csv	# Test labels for TCR split
-│   │   └── base-catelmo.ipynb   			# Code for the base model
+│   │   └── base-catelmo.ipynb				# Code for the base model
 │   │
 │   ├── Modified/
 │   │   ├── modified_catelmo_epi_weights.pth	# Model weights (Epitope split)
 │   │   ├── modified_catelmo_tcr_weights.pth	# Model weights (TCR split)
 │   │   ├── modified_epi_test_predictions.csv	# Test labels for Epitope split
 │   │   ├── modified_tcr_test_predictions.csv	# Test labels for TCR split
-│   │   └── modified-catelmo.ipynb   			# Code for the enhanced model
+│   │   └── modified-catelmo.ipynb				# Code for the enhanced model
 │
 ├── Picture.png                    # Visualization image
 └── README.md                      # Project documentation
