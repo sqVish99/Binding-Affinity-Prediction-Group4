@@ -2,7 +2,7 @@
 
 ## **Overview**
 This repository contains two implementations of a TCR-epitope binding prediction model:  
-1. **ATM-TCR** (Base and Enhanced Versions)  
+1. **ATM-TCR**
 2. **catELMo**  
 
 The models are designed for predicting TCR-epitope binding affinity. Pretrained model weights are stored on OneDrive (links provided below).
