@@ -23,25 +23,34 @@ Binding-Affinity-Prediction-Group4/
 ├── ATM-TCR/
 │   ├── Base/
 │   │   ├── model_code.py          # Code for the base model
-│   │   ├── tcr_split_weights.pth  # Model weights (TCR split)
-│   │   ├── epi_split_weights.pth  # Model weights (Epitope split)
+│   │   ├── tcr_split_weights.pt   # Model weights (TCR split)
+│   │   ├── epi_split_weights.pt   # Model weights (Epitope split)
 │   │   ├── test_labels_tcr.csv    # Test labels for TCR split
 │   │   └── test_labels_epi.csv    # Test labels for Epitope split
 │   │
 │   ├── Model/
 │       ├── model_code.py          # Code for the enhanced model
-│       ├── tcr_split_weights.pth  # Model weights (TCR split)
-│       ├── epi_split_weights.pth  # Model weights (Epitope split)
+│       ├── tcr_split_weights.pt   # Model weights (TCR split)
+│       ├── epi_split_weights.pt   # Model weights (Epitope split)
 │       ├── test_labels_tcr.csv    # Test labels for TCR split
 │       └── test_labels_epi.csv    # Test labels for Epitope split
 │
 ├── catELMo/
-│   ├── model_code.py              # Code for catELMo model
-│   ├── tcr_split_weights.pth      # Model weights (TCR split)
-│   ├── epi_split_weights.pth      # Model weights (Epitope split)
-│   ├── test_labels_tcr.csv        # Test labels for TCR split
-│   └── test_labels_epi.csv        # Test labels for Epitope split
+│   ├── Base/
+│   │   ├── model_code.py          # Code for the base model
+│   │   ├── tcr_split_weights.pt   # Model weights (TCR split)
+│   │   ├── epi_split_weights.pt   # Model weights (Epitope split)
+│   │   ├── test_labels_tcr.csv    # Test labels for TCR split
+│   │   └── test_labels_epi.csv    # Test labels for Epitope split
+│   │
+│   ├── Model/
+│       ├── model_code.py          # Code for the enhanced model
+│       ├── tcr_split_weights.pt   # Model weights (TCR split)
+│       ├── epi_split_weights.pt   # Model weights (Epitope split)
+│       ├── test_labels_tcr.csv    # Test labels for TCR split
+│       └── test_labels_epi.csv    # Test labels for Epitope split
 │
 ├── Picture.png                    # Visualization image
 └── README.md                      # Project documentation
+
 
