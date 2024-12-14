@@ -43,19 +43,19 @@ Binding-Affinity-Prediction-Group4/
 │       └── test_labels_epi.csv    # Test labels for Epitope split
 │
 ├── catELMo/
-│   ├── Base/
-│   │   ├── model_code.py          # Code for the base model
-│   │   ├── tcr_split_weights.pt   # Model weights (TCR split)
-│   │   ├── epi_split_weights.pt   # Model weights (Epitope split)
-│   │   ├── test_labels_tcr.csv    # Test labels for TCR split
-│   │   └── test_labels_epi.csv    # Test labels for Epitope split
+│   ├── Base/ 
+│   │   ├── base_catelmo_epi_weights.pth	# Model weights (Epitope split)
+│   │   ├── base_catelmo_tcr_weights.pth	# Model weights (TCR split)
+│   │   ├── base_epi_test_predictions.csv	# Test labels for Epitope split
+│   │   ├── base_tcr_test_predictions.csv	# Test labels for TCR split
+│   │   └── base-catelmo.ipynb   			# Code for the base model
 │   │
-│   ├── Model/
-│       ├── model_code.py          # Code for the enhanced model
-│       ├── tcr_split_weights.pt   # Model weights (TCR split)
-│       ├── epi_split_weights.pt   # Model weights (Epitope split)
-│       ├── test_labels_tcr.csv    # Test labels for TCR split
-│       └── test_labels_epi.csv    # Test labels for Epitope split
+│   ├── Modified/
+│   │   ├── modified_catelmo_epi_weights.pth	# Model weights (Epitope split)
+│   │   ├── modified_catelmo_tcr_weights.pth	# Model weights (TCR split)
+│   │   ├── modified_epi_test_predictions.csv	# Test labels for Epitope split
+│   │   ├── modified_tcr_test_predictions.csv	# Test labels for TCR split
+│   │   └── modified-catelmo.ipynb   			# Code for the enhanced model
 │
 ├── Picture.png                    # Visualization image
 └── README.md                      # Project documentation
