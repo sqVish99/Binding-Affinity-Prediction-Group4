@@ -29,18 +29,18 @@ Binding-Affinity-Prediction-Group4/
 │
 ├── ATM-TCR/
 │   ├── Base/
-│   │   ├── model_code.py          # Code for the base model
-│   │   ├── tcr_split_weights.pt   # Model weights (TCR split)
-│   │   ├── epi_split_weights.pt   # Model weights (Epitope split)
-│   │   ├── test_labels_tcr.csv    # Test labels for TCR split
-│   │   └── test_labels_epi.csv    # Test labels for Epitope split
+│   │   ├── atm-tcr-base-submission.ipynb          # Code for the base model
+│   │   ├── ATMTCR_tcr_base_model_weights.pt   # Model weights (TCR split)
+│   │   ├── ATMTCR_epi_base_model_weights.pt   # Model weights (Epitope split)
+│   │   ├── base_tcr_test_predictions.csv    # Test labels for TCR split
+│   │   └── base_epi_test_predictions.csv   # Test labels for Epitope split
 │   │
-│   ├── Model/
-│       ├── model_code.py          # Code for the enhanced model
-│       ├── tcr_split_weights.pt   # Model weights (TCR split)
-│       ├── epi_split_weights.pt   # Model weights (Epitope split)
-│       ├── test_labels_tcr.csv    # Test labels for TCR split
-│       └── test_labels_epi.csv    # Test labels for Epitope split
+│   ├── Modified/
+│       ├── atm-tcr-modified-submission.ipynb         # Code for the enhanced model
+│       ├── ATMTCR_tcr_modified_model_weights.pt   # Model weights (TCR split)
+│       ├── ATMTCR_epi_modified_model_weights.pt   # Model weights (Epitope split)
+│       ├── modified_tcr_test_predictions.csv  # Test labels for TCR split
+│       └── modified_epi_test_predictions.csv   # Test labels for Epitope split
 │
 ├── catELMo/
 │   ├── Base/ 
